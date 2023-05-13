@@ -1,0 +1,12 @@
+add=2+3
+print(add)
+
+sub=5-3
+print(sub)
+
+mul=2**3
+print(mul)
+
+
+div=5/2
+print(div)
