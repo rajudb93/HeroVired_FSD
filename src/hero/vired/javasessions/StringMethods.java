@@ -41,6 +41,30 @@ public class StringMethods {
             System.out.print(str1+" ");
             
         }
+        System.out.println("");
+
+        str="This is a Java session";
+        String[] wordCount=str.split(" ");
+        System.out.println(wordCount.length);
+        System.out.println(str.length());
+        System.out.println(str.replaceAll(" ", "").length());
+
+        StringBuilder reversed = new StringBuilder(str);
+        System.out.println(reversed);
+        reversed.reverse();
+        
+        String output = reversed.toString();
+        System.out.println(output);
+
+        
+
+      
+        
+
+  
+
+
+        
 
 
 
