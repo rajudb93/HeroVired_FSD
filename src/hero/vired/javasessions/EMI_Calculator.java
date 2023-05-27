@@ -1,6 +1,6 @@
 package hero.vired.javasessions;
 
-import java.nio.file.AtomicMoveNotSupportedException;
+
 import java.util.Scanner;
 
 public class EMI_Calculator {
@@ -26,6 +26,7 @@ public static void main(String[] args) {
         double EMI = (loanAmount * monthlyInterestRate * f) / (f - 1);
 
         System.out.println(EMI);
+        sc.close();
 }
 
     

@@ -16,6 +16,6 @@ public class Pallindrome {
         } else {
             System.out.println(input + " is not a palindrome");
         }
-    
+        scanner.close();
 }
 }

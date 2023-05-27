@@ -20,6 +20,7 @@ public class CountVowels {
         }
 
         System.out.println("The number of vowels in the string is " + vowelCount);
+        scanner.close();
     }
     
 }

@@ -1,6 +1,6 @@
 package hero.vired.javasessions;
 
-import java.text.DecimalFormat;
+
 import java.util.Scanner;
 
 public class CalculatePercentage {

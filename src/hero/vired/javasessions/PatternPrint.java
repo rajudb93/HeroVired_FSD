@@ -40,7 +40,7 @@ public class PatternPrint {
             default:
             System.out.println("Invalid Choice");
         }
-
+        sc.close();
     
 }
 
@@ -123,6 +123,7 @@ public class PatternPrint {
         }
         System.out.println();
     }
+   
 }
 
 }
