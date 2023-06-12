@@ -1,0 +1,5 @@
+WaiterName,CustomerName,ItemName,OrderMode,SalesAmount,Date,TipAmount
+WaiterName,CustomerName,ItemName,OrderMode,SalesAmount,Date,TipAmount
+Rani,Ram,dosa,online,400.0,10/06/2023,20.0
+WaiterName,CustomerName,ItemName,OrderMode,SalesAmount,Date,TipAmount
+Rani,Shyam,halwa,offline,300.0,10/06/2023,20.0
